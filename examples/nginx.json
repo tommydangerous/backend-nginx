@@ -1,0 +1,14 @@
+{
+  "authentications": {
+    "ip": "192.168.0.3",
+    "uri": "authentications"
+  },
+  "messages": {
+    "ip": "192.168.0.2",
+    "uri": "messages"
+  },
+  "users": {
+    "ip": "192.168.0.1",
+    "uri": "users"
+  }
+}
